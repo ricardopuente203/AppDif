@@ -83,7 +83,7 @@ Homestead.json
 /vendor
 .env
 /public/.htaccess
-/storage
-storage/*.key
+#/storage
+#storage/*.key
 node_modules
 public/blog
